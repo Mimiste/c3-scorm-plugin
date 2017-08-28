@@ -1,7 +1,13 @@
 # C3 Scorm Plugin
 
 A Construct 3 plugin to connect an LMS running Scorm 1.2 or Scorm 2004 and get/send statements.
-Ported from the Construct 2 version here : [C2 Scorm Plugin](https://github.com/Mimiste/c2-scorm-plugin)
+Ported from the Construct 2 version here : [C2 Scorm Plugin](https://github.com/Mimiste/c2-scorm-plugin).
+
+Compatible with games created in Construct 2.
+
+## Installation
+
+Install the c3addon file in the construct 3 Addon manager (bin/scorm_c3_plugin.c3addon)
 
 ## Usage
 
